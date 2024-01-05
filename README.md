@@ -1,5 +1,5 @@
 <!--
-**joelljones/joelljones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joelljones/joelljones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on the GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Joell</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Joell</h1>
 <h3 align="center">A passionate software engineer</h3>
 
 - 🔭 I’m currently working on **TMS - A transportation management system**
