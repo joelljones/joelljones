@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [joelljones.github.io](joelljones.github.io)
+- 👨‍💻 All of my projects are available at [joelljones.github.io](https://joelljones.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/joelljones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="joelljones" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joelljones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joelljones" height="30" width="40" /></a>
+<a href="https://codepen.io/joelljones" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="joelljones" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joelljones" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joelljones" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
