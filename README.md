@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Joell</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on **TMS - A transportation management system**
+- 🔭 My current stack is **Astro / Next.js + Supabase**
 
-- 🌱 I’m currently learning **React.js**
-
-- 👨‍💻 All of my projects are available at [joelljones.github.io](https://joelljones.github.io)
+- 👨‍💻 Some of my projects are available at [joelljones.github.io](https://joelljones.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,6 +32,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/astrojs.svg" alt="astrojs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -41,6 +40,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> 
 </p>
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=joelljones&" alt="joelljones" /></p>
